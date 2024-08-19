@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe Finder</title>
+  </head>
+  <h1>Recipe Finder</h1>
+
+  <label for="ingredientInput">Enter ingredients (comma-separated):</label>
+  <input type="text" id="ingredientInput" placeholder="e.g., tomato, basil, garlic">
+  <button id="searchButton">Search Recipes</button>
+
+  <table id="recipeTable" border="1" width="100%">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Ingredients</th>
+        <th>Instructions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Recipe rows will be dynamically inserted here -->
+    </tbody>
+  </table>
+
+  <body>
+    <script type="module" src="ingredients.js"></script>
+    <!-- <script src="api.js"></script>/ -->
+  </body>
+</html>

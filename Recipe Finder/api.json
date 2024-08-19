@@ -1,0 +1,20 @@
+{
+    "recipes": [
+      {
+        "title": "Chicken Tomato Basil Pasta",
+        "ingredients": ["chicken breast", "tomato", "basil", "pasta", "olive oil", "garlic", "parmesan cheese"],
+        "instructions": "Cook pasta according to package instructions. In a pan, heat olive oil and sauté garlic until fragrant. Add chicken and cook until browned. Add tomatoes and basil, and cook until the tomatoes soften. Mix in the cooked pasta and top with parmesan cheese. Serve warm."
+      },
+      {
+        "title": "Tomato Basil Soup",
+        "ingredients": ["tomato", "basil", "onion", "garlic", "vegetable broth", "olive oil", "salt", "pepper"],
+        "instructions": "In a large pot, heat olive oil over medium heat. Add onion and garlic, sauté until soft. Add tomatoes, vegetable broth, salt, and pepper. Simmer for 20 minutes. Blend the soup until smooth. Stir in basil and serve warm."
+      },
+      {
+        "title": "Grilled Chicken Salad",
+        "ingredients": ["chicken breast", "lettuce", "tomato", "cucumber", "olive oil", "lemon juice", "salt", "pepper"],
+        "instructions": "Grill the chicken breast until fully cooked, then slice. In a large bowl, mix lettuce, tomato, and cucumber. Toss with olive oil, lemon juice, salt, and pepper. Top the salad with the grilled chicken slices and serve."
+      }
+    ]
+  }
+  
